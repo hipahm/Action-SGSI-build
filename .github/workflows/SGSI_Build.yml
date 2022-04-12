@@ -6,15 +6,15 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://hugeota.d.miui.com/21.5.31/miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'https://download-xys.meizu.com/Firmware/Flyme/meizu17_Pro/9.21.6.22/cn_daily/20210622033837/05707039/update.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'update.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'miui'
+        default: 'Flyme'
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
