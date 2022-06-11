@@ -6,7 +6,7 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://download-xys.meizu.com/Firmware/Flyme/meizu17_Pro/9.21.6.22/cn_daily/20210622033837/05707039/update.zip'
+        default: 'https://aaa6qmoyzybyky66pb7uvwzj32qdu888.node.ppio.cloud:24924/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu18/9.2.5.3/cn/20220424190128/3d205519/update.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
